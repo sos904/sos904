@@ -77,7 +77,7 @@ I continuously explore industry trends to merge design and functionality while m
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/stephen-oteng-seifah/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:soseifah904@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/0501542463)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+233501542463)  
 
 ---
 
