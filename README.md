@@ -1,7 +1,7 @@
 # Hi there, I'm Stephen! 👋  
 ### Passionate Software Developer | AWS | Azure | Flutter | Cyber Security Enthusiast  
 
-![Banner](https://github.com/user-attachments/assets/bd6e3798-bd68-4689-a4a8-c0ee5ba28619)
+![Banner](https://github.com/user-attachments/assets/c95afff8-7645-47b3-b35d-e4c4851e0a09)
 
 A multi-talented creative professional with expertise in software development, IT infrastructure management, and cloud services.  
 I continuously explore industry trends to merge design and functionality while maintaining a client-centric approach.  
