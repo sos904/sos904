@@ -45,7 +45,7 @@ I continuously explore industry trends to merge design and functionality while m
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sos904&theme=dark)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sos904&theme=dark)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sos904&layout=compact&theme=dark)  
 
 ---
@@ -66,11 +66,11 @@ I continuously explore industry trends to merge design and functionality while m
 ✔️ API Development  
 ✔️ Database Design  
 ✔️ Cloud Infrastructure  
-✔️ DevOps & CI/CD 
-✔️ Code Optimization 
-✔️ IT Infrastructure Management 
-✔️ Bash Scripting 
-✔️ Networking
+✔️ DevOps & CI/CD  
+✔️ Code Optimization  
+✔️ IT Infrastructure Management  
+✔️ Bash Scripting  
+✔️ Networking 
 
 ---
 
